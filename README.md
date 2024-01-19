@@ -82,7 +82,9 @@
  
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1071758296568053771/1197878336697938080/akos1.png"></img> 
+  <br>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1071758296568053771/1197878336949588048/akos2.png"></img>
+  <br>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1071758296568053771/1197878337188679690/akos3.png"></img>
     
 </div>
