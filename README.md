@@ -76,7 +76,7 @@
 
 - open `builder.bat`
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
+<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://cdn.discordapp.com/attachments/1071758296568053771/1197878337666814013/builder.png"></img></div>
 
                                                        🖼️ Pictures
  
