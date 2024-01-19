@@ -6,7 +6,7 @@ from tkinter import messagebox, filedialog
 ctk.set_appearance_mode("dark")
 app = ctk.CTk()
 app.title(f"ACStealer Builder ")
-app.iconbitmap("img\\logo.ico")
+app.iconbitmap("logo.ico")
 app.geometry("400x240")
 app.resizable(False, False)
 
