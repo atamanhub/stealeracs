@@ -1,5 +1,5 @@
 <h1 align="center"> Akos Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/1071758296568053771/1197878338321133759/xd.png"width="420"> </kbd><br><br>
 
 
 
